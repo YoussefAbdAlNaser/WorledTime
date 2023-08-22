@@ -1,3 +1,3 @@
-# wordtime
+## WordTime
 A new Flutter project.
 
